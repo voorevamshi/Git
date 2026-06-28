@@ -1,3 +1,5 @@
+
+[To prevent Git from accidentally staging](UnstageFiles.md)
 ### 1. Unstage the files
 Run this command to tell Git to stop tracking the `.idea` folder without deleting the actual files from your computer:
 
